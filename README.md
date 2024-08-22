@@ -1,16 +1,12 @@
-# untitled1
+# College App by Ganii
 
-A new Flutter project.
+A College Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This Code in here must be modified by the user because IP addressess of systems may vary 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is just for experimental purposes and a very few parts of the project are still under development. Including Workshops , Busroutes and other small fields.
