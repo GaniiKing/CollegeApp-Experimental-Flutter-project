@@ -19,9 +19,9 @@ Select User Page:
 
 (Note: This page only appears when u first time logging in...)
 
-
+<p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_154334.png" width="300" height="700" />
-
+</p>
 
 
 Crew and Student Login Page :
