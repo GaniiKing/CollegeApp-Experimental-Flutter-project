@@ -15,7 +15,7 @@ This is just for experimental purposes and a very few parts of the project are s
 
 pictures:
 Select User Page:
-<img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_154334.png" width="300" height="300" />
+<img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_154334.png" width="300" height="700" />
 (Note: This page only appears when u first time logging in...)
 
 
