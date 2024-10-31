@@ -30,6 +30,54 @@ Crew and Student Login Page :
 
 
 
+Home Page :
+
+Tab1:
+
+<img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162208.png" width="300" height="700" />
+
+Tab2 :
+
+<img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162224.png" width="300" height="700" />
+
+
+Drawer :
+
+<img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162406.png" width="300" height="700" />
+
+
+
+
+BusBay :
+
+<img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162316.png" width="300" height="700" />
+
+
+
+Complaint Anonymous :
+
+<img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162353.png" width="300" height="700" />
+
+
+
+Complaint with identity :
+
+<img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162359.png" width="300" height="700" />
+
+
+
+For more and detailed features screenshots visit : https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/tree/main/collegeapppictures
+
+
+
+
+
+
+
+
+
+
+
 
 
 
