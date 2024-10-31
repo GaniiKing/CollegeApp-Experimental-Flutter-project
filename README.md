@@ -15,12 +15,10 @@ This is just for experimental purposes and a very few parts of the project are s
 
 pictures:
 Select User Page:
-![Screenshot_20241030_154334](https://github.com/user-attachments/assets/eca34a6c-24da-48cd-aea0-c5291dc94607)
 (Note: This page only appears when u first time logging in...)
 
 
 
-![Screenshot_20241030_154400](https://github.com/user-attachments/assets/f911438a-085b-4d18-979d-eac2709f7472)
 
 
 
