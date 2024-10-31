@@ -15,38 +15,38 @@ This is just for experimental purposes and a very few parts of the project are s
 
 ## Pictures:
 
-## Select User Page:
+### Select User Page:
 
-## (Note: This page only appears when u first time logging in...)
+#### (Note: This page only appears when u first time logging in...)
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_154334.png" width="300" height="700" />
 </p>
 
 
-## Crew and Student Login Page :
+### Crew and Student Login Page :
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_154400.png" width="300" height="700" />                                                                               <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_154421.png" width="300" height="700" /></p>
 
 
 
-## Home Page :
+### Home Page :
 
-## Tab1:
+### Tab1:
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162208.png" width="300" height="700" />
 </p>
 
-## Tab2 :
+### Tab2 :
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162224.png" width="300" height="700" />
 </p>
 
 
-## Drawer :
+### Drawer :
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162406.png" width="300" height="700" />
@@ -54,21 +54,21 @@ This is just for experimental purposes and a very few parts of the project are s
 
 
 
-## BusBay :
+### BusBay :
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162316.png" width="300" height="700" />
 </p>
 
 
-## Complaint Anonymous :
+### Complaint Anonymous :
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162353.png" width="300" height="700" />
 </p>
 
 
-## Complaint with identity :
+### Complaint with identity :
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162359.png" width="300" height="700" />
