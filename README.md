@@ -19,7 +19,11 @@ Select User Page:
 (Note: This page only appears when u first time logging in...)
 
 
-![Uploading Screenshot_20241030_154400.png…]()
+
+![Screenshot_20241030_154400](https://github.com/user-attachments/assets/f911438a-085b-4d18-979d-eac2709f7472)
+
+
+
 
 
 
