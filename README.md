@@ -33,20 +33,20 @@ This is just for experimental purposes and a very few parts of the project are s
 
 ### Home Page :
 
-### Tab1:
+#### Tab1:
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162208.png" width="300" height="700" />
 </p>
 
-### Tab2 :
+#### Tab2 :
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162224.png" width="300" height="700" />
 </p>
 
 
-### Drawer :
+#### Drawer :
 
 <p align="center">
 <img src="https://github.com/GaniiKing/CollegeApp-Experimental-Flutter-project/blob/main/collegeapppictures/Screenshot_20241030_162406.png" width="300" height="700" />
